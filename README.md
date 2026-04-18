@@ -147,8 +147,8 @@ gcc snakes_and_ladders.c -o game
 
 ## 👥 Authors
 
-* Ayush Gatla
 * T Ram Sai
+* Ayush Gatla
 * Pankaj Maulekhi
 * Abhilash Kumar
 
